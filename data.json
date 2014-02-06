@@ -30,5 +30,28 @@
 			"description": "Really into psychology",
 			"imageURL": "http://www.nap.edu/html/biomems/photo/anewell.JPG"
 		}
+	],
+
+	"news": [
+		{
+			"name": "Grace Hopper",
+			"story": "I think theres a moth in my computer. I should debug it, LOL!"
+		},
+		{
+			"name": "Allen Newell",
+			"story": "I really enjoy studying psychology"
+		},
+		{
+			"name": "Vannevar Bush",
+			"story": "My associative memory is so excellent. Let me just contemplate this."
+		},
+		{
+			"name": "Doug Engelbart",
+			"story": "My mouse sure has grown a long tail!"
+		},
+		{
+			"name": "Lucy Suchman",
+			"story": "Taking a picture of my food! #instagram #burrito #vallartas #crazylife #ilovehci #wowthisguydidsowellonhisstretchgoal #givehimextrapoints"
+		}
 	]
 }
